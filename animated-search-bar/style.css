@@ -16,7 +16,7 @@ body {
   height: 50px;
   border-radius: 50px;
   box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.2),
-    -6px -6px 10px rgba(255, 255, 255, 0.7);
+    -6px -6px 10px rgba(225, 204, 204, 0.7);
   margin: 10px;
   position: relative;
   transition: width 1.5s;
